@@ -1,0 +1,121 @@
+body{
+
+	color: white;
+	font-family: Raleway, serif;
+	background-color: #33CCFF;
+	margin:auto;
+	
+}
+
+.header{
+	
+	width:100%; 
+	height:20px; 
+	color: black; 
+	font-size:30px;
+	
+	}
+	
+
+i {
+	text-decoration: none;
+	color: white;
+	
+	}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-size:20px;
+
+	}
+
+
+.image{
+
+	width:1400px; 
+	height:700px; 
+	background: url(streetfinale.jpg) no-repeat center center;
+	background-size:cover;
+	color: white;
+	font-size: 20px;
+
+	}
+
+.espace{
+
+	height:50px;
+	
+	}
+
+.descriptions{
+
+	width:1400px; 
+	height:700px; 
+	background: url(favelas.jpg) no-repeat center center;
+	background-size:cover;
+	
+	}
+
+.espaces{
+
+	height: 100px;
+	
+	}
+
+#communaute{
+
+	color: white;
+	font-size: 40px;
+	font-family: Helvetica serif;
+
+	}
+
+
+#trois{
+
+	width:1400px; 
+	height:700px; 
+	background: url(1111.jpg) no-repeat center center;
+	background-size:cover;
+
+	}
+
+h1{
+
+	text-align: center;
+	color: black;
+	font-size: 60px;
+	font-family: Helvetica serif;
+	margin: 0;
+	padding: 0;
+
+}
+
+
+
+#commentaire{
+
+	font-size: 20px;
+	color:black;
+
+	}
+
+#haut{
+
+	margin: 0 auto;
+	display: block;
+
+	}
+
+footer{
+
+	width:1400px;
+	height:50px;
+	background-color:grey;
+	color:white;
+	font-size:15px;
+
+
+	}
+
